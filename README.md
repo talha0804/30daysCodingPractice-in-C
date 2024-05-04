@@ -1,0 +1,2 @@
+# 30daysCodingPractice-in-C
+Here are the 30 days coding practice in c Language include practice codes ,problems and slides
